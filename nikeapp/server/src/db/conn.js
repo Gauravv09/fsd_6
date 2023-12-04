@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://Gauravdb:QTPMAMGESVanevYd@cluster0.xbcejaa.mongodb.net/?retryWrites=true&w=majority",{
+mongoose.connect("pasteyourlinkhere",{
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(()=>{
