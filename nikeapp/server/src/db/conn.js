@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 const mongoose = require("mongoose");
 
-mongoose.connect("pasteyourlinkhere",{
+mongoose.connect("pasteyourmongoatlaslinkhere",{
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(()=>{
